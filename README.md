@@ -2,7 +2,7 @@
 <p align="center">
   <b>Developer & Researcher</b><br>
   <i>Researching before developing, testing before deploying</i><br>
-  <i>Slower to respond byt never missed deadlines.</i>
+  <i>Slower to respond but never missed deadlines.</i>
 </p>
 
 ---
@@ -28,35 +28,6 @@
 
 Passionate about building, experimenting, and researching future technologies.<br>
 My journey as a developer and researcher revolves around innovation in web tech, GenAI, and AI assistants.
-
----
-
-## 🧠 Skills
-
-- **Languages:**  
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-
-- **Frameworks:**  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="30"/>
-
-- **Databases:**  
-  <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VectorDB-FF9900?style=flat"/>
-
----
-
-## 🌟 Favorite Projects
-
-- <b><a href="#">citysupport</a></b> — Supporting smart city initiatives
-- <b><a href="#">MP (Karan's repo)</a></b> — Collaborative solutions for modern problems
-- <b><a href="#">smart-ehr</a></b> — Enhancing electronic health records with intelligence
-
-*Explore my repositories for more!*
 
 ---
 
@@ -87,10 +58,6 @@ My journey as a developer and researcher revolves around innovation in web tech,
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KrishJPrajapati&style=for-the-badge" alt="profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishJPrajapati&show_icons=true&theme=radical"/>
 </p>
 
 ---
