@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm KrishJPrajapati 👋</h1>
 <p align="center">
   <b>Developer & Researcher</b><br>
-  <i>Researching before developing, testing before deploying</i>
-  <i>Slower to respond never missed timeline</i>
+  <i>Researching before developing, testing before deploying</i><br>
+  <i>Slower to respond byt never missed deadlines.</i>
 </p>
 
 ---
