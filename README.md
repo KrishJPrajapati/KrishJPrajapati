@@ -50,13 +50,6 @@ My journey as a developer and researcher revolves around innovation in web tech,
 ---
 
 <p align="center">
-  <b>Slogan:</b><br>
-  <i>Researching before developing, testing before deploying</i>
-</p>
-
----
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=KrishJPrajapati&style=for-the-badge" alt="profile views"/>
 </p>
 
